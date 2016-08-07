@@ -5,7 +5,6 @@
 
 from __future__ import print_function
 from itertools import permutations
-import sys
 
 def is_palindrome(word):
     length = len(word)
